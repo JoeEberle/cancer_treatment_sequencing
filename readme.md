@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Treatment Sequencing - Analyzing the most effective sequence of cancer treatment or combining modalities to achieve therapeutic response.
 Analyzing the most effective sequence of cancer treatment or combining modalities to achieve therapeutic response.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Treatment Sequencing** - an example for your pr
 Analyzing the most effective sequence of cancer treatment or combining modalities to achieve therapeutic response.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
